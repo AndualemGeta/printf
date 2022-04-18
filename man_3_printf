@@ -1,9 +1,10 @@
-.TH man 3 "15 March 2019" "GNU" "_printf man page"
+.TH _PRINTF"1" "15 April 2022" "GNU" "_printf man page"
 .SH NAME
+_printf - print data and format
 .B _printf
 - Formatted output conversion
 .SH SYNOPSIS
-.B #include "holberton.h"
+.B #include "main.h"
 
 .B int _printf(const char *
 .I format
@@ -57,4 +58,5 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH SEE ALSO
 .I printf(3)
 .SH AUTHOR
-Daniela Lopera, Miguel Palacios
+Hailu Worku
+Andualem Getachew

@@ -1,7 +1,7 @@
-#0x11. C - printf
-Project to be done in teams of 2 people (your team:Hailu Worku and Andualem Getachew)
-#Background Context
-*Write your own printf function.
+# 0x11. C - printf
+* Project to be done in teams of 2 people (your team:Hailu Worku and Andualem Getachew)
+# Background Context
+* Write your own printf function.
 ## Getting Started
 
 * Allowed editors: vi, vim, emacs.
@@ -162,5 +162,5 @@ Conversion specifiers to handle: d, i, u, o, x, X
 * GitHub repository: printf
 #
 ### Authors
-*[Hailu Worku-(https://github.com/HailuWorku1)
-*[Andualem Getachew - (https://github.com/AndualemGeta)
+* [Hailu Worku-(https://github.com/HailuWorku1)
+* [Andualem Getachew - (https://github.com/AndualemGeta)
